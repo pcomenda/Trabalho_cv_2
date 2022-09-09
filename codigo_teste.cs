@@ -11,3 +11,5 @@ else if(lado_1 == lado_2 || lado_1 == lado_3){
 else{
     Console.WriteLine("O triângulo é Escaleno");
 }
+
+//1.0
